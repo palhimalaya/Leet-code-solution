@@ -1,0 +1,15 @@
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/bin/Debug/net7.0/DisplayTheUniqueElements
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/bin/Debug/net7.0/DisplayTheUniqueElements.deps.json
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/bin/Debug/net7.0/DisplayTheUniqueElements.runtimeconfig.json
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/bin/Debug/net7.0/DisplayTheUniqueElements.dll
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/bin/Debug/net7.0/DisplayTheUniqueElements.pdb
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.csproj.AssemblyReference.cache
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.AssemblyInfoInputs.cache
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.AssemblyInfo.cs
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.csproj.CoreCompileInputs.cache
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.dll
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/refint/DisplayTheUniqueElements.dll
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.pdb
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/DisplayTheUniqueElements.genruntimeconfig.cache
+/workspaces/Leet-code-solution/C#/DisplayTheUniqueElements/obj/Debug/net7.0/ref/DisplayTheUniqueElements.dll
